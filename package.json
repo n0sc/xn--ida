@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@bsv/sdk": "^2.2.0",
+    "@bsv/sdk": "^2.2.15",
     "@microsoft/clarity": "^1.0.2",
     "@vercel/analytics": "^2.0.1",
     "next": "16.2.12",
